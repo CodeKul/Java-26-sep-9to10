@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class SwitchCaseDemo {
 
 
-    private void checkSwitchCase(int choice,int a,int b) {
+    public void checkSwitchCase(int choice,int a,int b) {
 
         switch (choice) {
 
